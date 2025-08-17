@@ -1,0 +1,18 @@
+# Core
+pandas==2.2.2
+numpy==1.26.4
+
+# Database
+sqlite-utils==3.35
+
+# Dashboard / Web App
+streamlit==1.38.0
+plotly==5.23.0
+
+# Jupyter (optional, for data cleaning & exploration)
+jupyter==1.0.0
+notebook==7.2.1
+ipykernel==6.29.5
+
+# Code quality (optional but recommended)
+black==24.4.2

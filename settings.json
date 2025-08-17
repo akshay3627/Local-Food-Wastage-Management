@@ -1,0 +1,35 @@
+{
+    // ✅ Python settings
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python", // or .venv\Scripts\python.exe on Windows
+    "python.analysis.typeCheckingMode": "basic",
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+
+    // ✅ Jupyter support
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+
+    // ✅ SQLTools (for SQLite database)
+    "sqltools.connections": [
+        {
+            "name": "FoodWastageDB",
+            "driver": "SQLite",
+            "database": "${workspaceFolder}/food_wastage.db"
+        }
+    ],
+
+    // ✅ Editor Preferences
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+
+    // ✅ File/Path helpers
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.DS_Store": true,
+        "**/*.pyc": true
+    },
+    "path-intellisense.mappings": {
+        "/data": "${workspaceFolder}/data",
+        "/sql": "${workspaceFolder}/sql"
+    }
+}
