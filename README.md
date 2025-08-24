@@ -126,11 +126,10 @@ Open in your browser.
 
 ### 🔹 Dashboard (Live Metrics + Charts)
 ![Dashboard Screenshot](<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/f4468fd6-f816-4456-82a9-bb2a179ffcf4" />
-)
 ![Dashboard Screenshot](<img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/a5d26fc1-46a1-486b-9433-41a12648bce9" />
-)
+
 ![Dashboard Screenshot](<img width="1366" height="768" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/fd7a355f-1d12-4d15-aab3-25ef79d713cd" />
-)
+
 
 ### 🔹 SQL Queries Page
 ![Queries Screenshot<img width="1366" height="768" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/1f29a041-6249-4cf9-bb33-5ff6b6c6c63c" />
@@ -138,15 +137,15 @@ Open in your browser.
 
 ### 🔹 Manage Listings
 ![Manage Listings Screenshot](<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/6c5be5bd-11af-48e1-9faa-d86f9b4b7f6e" />
-)
+
 
 ### 🔹 Manage Claims
 ![Manage Claims Screenshot](<img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/6cc9ba03-51ac-4279-950e-1d49a04eb2e2" />
-)
+
 
 ### 🔹 Providers & Receivers
 ![Providers Screenshot](<img width="1366" height="768" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/2b86e042-416a-4d70-ab4d-36ee7eb7cd46" />
-)
+
 
 ---
 
