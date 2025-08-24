@@ -125,19 +125,19 @@ Open in your browser.
 ## 📸 Screenshots
 
 ### 🔹 Dashboard (Live Metrics + Charts)
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](D:\\local_food_wastage\\Screenshot\\Screenshot (4).png)
 
 ### 🔹 SQL Queries Page
-![Queries Screenshot](screenshots/queries.png)
+![Queries Screenshot](Screenshot\Screenshot (5).png)
 
 ### 🔹 Manage Listings
-![Manage Listings Screenshot](screenshots/listings.png)
+![Manage Listings Screenshot](Screenshot\Screenshot (6).png)
 
 ### 🔹 Manage Claims
-![Manage Claims Screenshot](screenshots/claims.png)
+![Manage Claims Screenshot](Screenshot\Screenshot (7).png)
 
 ### 🔹 Providers & Receivers
-![Providers Screenshot](screenshots/providers.png)
+![Providers Screenshot](Screenshot\Screenshot (9).png)
 
 ---
 
